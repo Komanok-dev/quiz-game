@@ -9,10 +9,14 @@ The team that get more points after all questions have been answered - wins.
 
 ![quiz.jpg](https://i.postimg.cc/7hWcxbhf/quiz.jpg)
 
+## Technology stack: 
+* Python3
+* Tkinter
+* Pygame
+
 ## Requirements
 
 You must have Python 3.7 or greater. You can download the latest Python release [here](https://www.python.org/downloads/).
-
 
 ## Install
 
